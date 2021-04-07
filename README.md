@@ -1,5 +1,3 @@
-Visualization of the iris dataset using various techniques.
-
 This project visualizes the data set using the following:
 
 -A histogram for each feature
